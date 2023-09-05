@@ -118,3 +118,32 @@ Submit the "restaurant-menu.html" file containing your restaurant menu webpage. 
 
 **My Submission**: [04-restaurant-menu.html](04-restaurant-menu.html)
 </details>
+
+<details>
+<summary><b>Day 5</b></summary>
+
+### Objective:
+
+Create a feedback form webpage using HTML that demonstrates your understanding of iframes, multimedia, forms, canvas, and emojis
+
+### Requirements:
+
+1. Create an HTML file named "feedback.html".
+2. Include the necessary HTML tags to define the structure of the document, such as the `<!DOCTYPE>`, `<html>`, `<head>`, and `<body>` tags.
+3. Inside the `<head>` tag, add a `<title>` tag to give your webpage a title, such as "Feedback Form".
+4. Use appropriate heading tags (`<h1>`, `<h2>`, etc.) to create a title and subtitles for your feedback form.
+5. Include the following elements in your webpage:
+    - An iframe that displays a map or a video from a website like Google Maps or YouTube.
+    - An audio or video clip using the `<audio>` or `<video>` tag.
+    - A feedback form using the `<form>`, `<input>`, `<textarea>`, and `<button>` tags. The form should collect the visitor's name, email address, and feedback.
+    - A canvas with a simple drawing, like a rectangle or circle, using the `<canvas>` tag.
+    - An emoji in the text using the appropriate Unicode.
+6. Use proper indentation and formatting to make your HTML code easily readable.
+7. Save your HTML file and open it in a web browser to see your feedback form webpage.
+
+### Submission:
+
+Submit the "feedback.html" file containing your feedback form webpage. Ensure that your code follows the assignment requirements and demonstrates your understanding of iframes, multimedia, forms, canvas, and emojis.
+
+**My Submission**: [05-feedback.html](05-feedback.html)
+</details>
