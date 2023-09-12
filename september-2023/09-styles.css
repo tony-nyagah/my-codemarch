@@ -1,0 +1,20 @@
+/* Sets the background color of <h1> elements to chocolate and adds padding */
+h1 {
+    background-color: chocolate;
+    padding: 1em;
+}
+
+/* Sets the background color of <p> elements to purple, text color to white, and adds padding */
+p {
+    background-color: purple;
+    color: white;
+    padding: 1em;
+}
+
+/* Defines styles for elements with class "box" */
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin: auto;
+}
