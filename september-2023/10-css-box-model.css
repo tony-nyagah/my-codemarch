@@ -1,0 +1,19 @@
+.container {
+    background-color: bisque;
+    padding: 5px;
+    margin: auto;
+}
+
+.container 
+
+.inner {
+    background-color: aliceblue;
+    padding: 2em;
+    margin: 2em;
+}
+
+.outer {
+    background-color: cadetblue;
+    padding: 2em;
+    margin: 2em;
+}
